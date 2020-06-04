@@ -1,1 +1,5 @@
-{"name":"mustang","marca":"ford","price":9999}
+{
+  "name": "Martini",
+  "planet": "Earth",
+  "age": 20
+}
